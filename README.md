@@ -16,5 +16,5 @@ return
 ### Push [Windows]+[R] and input shell:startup and input enter
 ### move your .ahk file on startup folder.
 ### finally, you double click .ahk file
-# CapsLock Short Click -> Change Language
-# CapsLock Long Click -> Upper or Lower
+## CapsLock Short Click -> Change Language
+## CapsLock Long Click -> Upper or Lower
